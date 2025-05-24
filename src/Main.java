@@ -9,12 +9,7 @@ public class Main {
 
         }
     }
-}
 
 
-class temp{
-    public int returns(a,b){
-        int s=a*b;
 
-    }
-}
+
