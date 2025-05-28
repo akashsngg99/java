@@ -1,3 +1,5 @@
+import java.io.*;
+
 public class new_class {
 
     public static void temps(){
